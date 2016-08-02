@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mogilev City</string>
+
+    <!-- First page text view. -->
+    <string name="enter_text">You are entering Mogilev now "\u2026"</string>
+
+    <!-- Categories welcome text. -->
+    <string name="welcome_text">Welcome to the beautiful city of Mogilev! This app will help you
+        to discover this amazing city!</string>
+
+    <!-- Category tites. -->
+    <string name="museums">Museums</string>
+    <string name="cool_things_to_do">Cool Things To Do</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="hotels">Hotels</string>
+
+</resources>
